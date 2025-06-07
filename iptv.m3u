@@ -1269,3 +1269,18 @@ http://222888999.xyz:8080/live/FAM424/SAT45789/3020.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=MBC+Action",MBC Action
 http://222888999.xyz:8080/live/FAM424/SAT45789/3021.ts
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Sky+Sports+Main+Event",Sky Sports Main Event
+http://yourserver.example.com:8080/live/AF3MK/12131415/4011.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Canal+Foot%2B",Canal+Foot+
+http://yourserver.example.com:8080/live/AF3MK/12131415/4012.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Eleven+Sports+1",Eleven Sports 1
+http://yourserver.example.com:8080/live/AF3MK/12131415/4013.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Polsat+Sport+HD",Polsat Sport HD
+http://yourserver.example.com:8080/live/AF3MK/12131415/4014.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Nova+Sports+1",Nova Sports 1
+http://yourserver.example.com:8080/live/AF3MK/12131415/4015.ts
+
