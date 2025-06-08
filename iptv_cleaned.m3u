@@ -1,0 +1,440 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=ajyal+tv+(720p)",ajyal tv (720p)
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=al+arabiya+(1080p)",al arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=al+arabiya+al+hadath+(1080p)+[not+24/7]",al arabiya al hadath (1080p) [not 24/7]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=al+arabiya+business+(1080p)",al arabiya business (1080p)
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=al+arabiya+programs+(1080p)",al arabiya programs (1080p)
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=al+ekhbariya+(1080p)",al ekhbariya (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=al+quran+al+kareem+tv+(1080p)",al quran al kareem tv (1080p)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rotana+m+",rotana m+
+https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=al+saudiya+(1080p)",al saudiya (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=al+saudiya+alaan+(1080p)",al saudiya alaan (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=al+sunnah+al+nabawiyah+tv+(1080p)",al sunnah al nabawiyah tv (1080p)
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=al-majd+holy+quran",al-majd holy quran
+https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alhurra+(720p)",alhurra (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alhurra+iraq+(720p)",alhurra iraq (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+five+(1080p)",alkass five (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+four+(1080p)",alkass four (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azq/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+one+(1080p)",alkass one (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+shoof+(1080p)",alkass shoof (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+six+(1080p)",alkass six (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+three+(1080p)",alkass three (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+two+(1080p)",alkass two (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alquran+(1080p)",alquran (1080p)
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=amantes+del+romance",amantes del romance
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268072-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68743968-8695-4725-b7a7-5a4926c380d1
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=arabica+tv+(720p)",arabica tv (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=bahrain+international+(720p)+[not+24/7]",bahrain international (720p) [not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=bahrain+quran+(720p)+[not+24/7]",bahrain quran (720p) [not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=bahrain+sports+1",bahrain sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=bahrain+sports+2+(720p)+[not+24/7]",bahrain sports 2 (720p) [not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=bahrain+sports+1+(720p)+[not+24/7]",bahrain sports 1 (720p) [not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=bbc+arabic+(720p)",bbc arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=cgtn+arabic+(1080p)+[not+24/7]",cgtn arabic (1080p) [not 24/7]
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=cine+romantico",cine romantico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=disney+channel+romania+(576i)",disney channel romania (576i)
+http://193.106.124.204:3000/play/a036
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=disney+junior+romania+(576i)",disney junior romania (576i)
+http://193.106.124.204:3000/play/a02b
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+one+(1080p)",dubai one (1080p)
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+racing+2+(1080p)",dubai racing 2 (1080p)
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+racing+3+(1080p)",dubai racing 3 (1080p)
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+racing+(1080p)",dubai racing (1080p)
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+sports+1+(various+sports)",dubai sports 1 (various sports)
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+sports+1+(1080p)",dubai sports 1 (1080p)
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+sports+3+(1080p)+[not+24/7]",dubai sports 3 (1080p) [not 24/7]
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+tv+(1080p)",dubai tv (1080p)
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+zaman+(1080p)+[not+24/7]",dubai zaman (1080p) [not 24/7]
+https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dw+arabic+(1080p)",dw arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=fox+10+phoenix+az+(ksaz)+(720p)",fox 10 phoenix az (ksaz) (720p)
+https://apollo.production-public.tubi.io/live/ac-ksaz.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=france+24+arabic+(1080p)",france 24 arabic (1080p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=great!+romance+(1080p)",great! romance (1080p)
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=holy+quran+radio+nablus+(720p)",holy quran radio nablus (720p)
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=i24+news+arabic+(720p)",i24 news arabic (720p)
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=ifilm+arabic",ifilm arabic
+https://live.presstv.ir/hls/ifilmar.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=inooro+tv+(720p)",inooro tv (720p)
+https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=iqraa+arabic+(1080p)+[not+24/7]",iqraa arabic (1080p) [not 24/7]
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=iqraa+quran+(1080p)",iqraa quran (1080p)
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=kmbc-dt1+(720p)",kmbc-dt1 (720p)
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=kmbc-dt2+(720p)",kmbc-dt2 (720p)
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=ksat-dt2+(720p)",ksat-dt2 (720p)
+https://fl3.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=kuwait+sport",kuwait sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=lighting+lives+blessing+nations+tv+arabic+(llbn)+(480p)",lighting lives blessing nations tv arabic (llbn) (480p)
+https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=lighting+lives+blessing+nations+tv+romanian+(llbn)+(480p)",lighting lives blessing nations tv romanian (llbn) (480p)
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=loveworld+arabic+(360p)",loveworld arabic (360p)
+https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=marjaeyat+tv+arabic+(1080p)",marjaeyat tv arabic (1080p)
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+1+(1080p)",mbc 1 (1080p)
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+1+usa+(1080p)",mbc 1 usa (1080p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+2+(480p)",mbc 2 (480p)
+https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+3+ksa+(1080p)",mbc 3 ksa (1080p)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=MBC+3+USA+(1080p)+[Geo-blocked]",MBC 3 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+4+(1080p)",mbc 4 (1080p)
+https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+5+(1080p)",mbc 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+(1080p)",mbc (1080p)
+https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+andong+(안동+mbc)+(360p)+[not+24/7]",mbc andong (안동 mbc) (360p) [not 24/7]
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+bollywood+(1080p)+[geo-blocked]",mbc bollywood (1080p) [geo-blocked]
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+busan+(부산mbc)+(360p)+[not+24/7]",mbc busan (부산mbc) (360p) [not 24/7]
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+chuncheon+(춘천+mbc)+(480p)+[not+24/7]",mbc chuncheon (춘천 mbc) (480p) [not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+chungbuk+(mbc+충북)+(720p)+[not+24/7]",mbc chungbuk (mbc 충북) (720p) [not 24/7]
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+daegu+(대구+mbc)+(480p)+[not+24/7]",mbc daegu (대구 mbc) (480p) [not 24/7]
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+daejeon+(대전+mbc)+(720p)+[not+24/7]",mbc daejeon (대전 mbc) (720p) [not 24/7]
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+drama+(480p)+[geo-blocked]",mbc drama (480p) [geo-blocked]
+http://mytv.dothome.co.kr/ch/catv/26.php
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+drama+ksa+(1080p)",mbc drama ksa (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+drama+usa+(1080p)",mbc drama usa (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+fm+(1080p)",mbc fm (1080p)
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+gangwon+(mbc+강원영동)+(1080p)+[not+24/7]",mbc gangwon (mbc 강원영동) (1080p) [not 24/7]
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+gwangju+(광주+mbc)+(1080p)+[geo-blocked]+[not+24/7]",mbc gwangju (광주 mbc) (1080p) [geo-blocked] [not 24/7]
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+gyeongnam+(경남+mbc)+(1080p)+[not+24/7]",mbc gyeongnam (경남 mbc) (1080p) [not 24/7]
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+iraq+(1080p)",mbc iraq (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+jeju+(제주+mbc)+(352p)+[not+24/7]",mbc jeju (제주 mbc) (352p) [not 24/7]
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+jeonju+(450p)",mbc jeonju (450p)
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+loud+(1080p)",mbc loud (1080p)
+https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+masr+1+(1080p)",mbc masr 1 (1080p)
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+masr+2+(copa+del+rey)",mbc masr 2 (copa del rey)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+masr+2+(1080p)",mbc masr 2 (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=MBC+Masr+USA+(1080p)",MBC Masr USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+mokpo+(목포+mbc)+(720p)+[not+24/7]",mbc mokpo (목포 mbc) (720p) [not 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+net+(480p)+[geo-blocked]",mbc net (480p) [geo-blocked]
+http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+persia+(1080p)",mbc persia (1080p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+tv+(720p)",mbc tv (720p)
+http://www.hwado.net/webtv/catv/503_CFEA7803.php
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+yeosu+(여수+mbc)+(1080p)+[not+24/7]",mbc yeosu (여수 mbc) (1080p) [not 24/7]
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc++drama+(1080p)",mbc+ drama (1080p)
+https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=medi+1+tv+arabic+(1080p)+[not+24/7]",medi 1 tv arabic (1080p) [not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+masr+drama+(1080p)",mbc masr drama (1080p)
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=noor",noor
+https://ncdn.telewebion.com/noor/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=noor+dubai+(1080p)",noor dubai (1080p)
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=noor+tv+(480p)+[not+24/7]",noor tv (480p) [not 24/7]
+https://sscsott.com/srt/noortvuk/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=noor+tv+(720p)",noor tv (720p)
+https://www.hewadwal.com:19360/noortv_abr/noortv_abr.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=oman+althakafia+(1080p)",oman althakafia (1080p)
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=oman+mubashir+(1080p)",oman mubashir (1080p)
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=oman+sports",oman sports
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=oman+sports+tv+(1080p)+[not+24/7]",oman sports tv (1080p) [not 24/7]
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=OSBC+TV+(480p)",OSBC TV (480p)
+https://cloud.odysee.live/content/0edfb4b7fb52d2d5ae30e052ce6b61d376fcd662/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=osbc+tv+(480p)",osbc tv (480p)
+https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=pluto+tv+film+romantici+italy+(720p)",pluto tv film romantici italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=pluto+tv+novelas+romance+(720p)",pluto tv novelas romance (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Pluto+TV+Romance",Pluto TV Romance
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85a137-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6ba74df-85dc-4ec0-b2a7-ba91c9bd8d90
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Pluto+TV+Romance",Pluto TV Romance
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1459-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195653a1-6a75-4cb6-b94d-0fe4a7594dba
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Pluto+TV+Romance",Pluto TV Romance
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ffbc6-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb4888c5-7223-4af0-9aec-f74be7f97304
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Pluto+TV+Romance",Pluto TV Romance
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d84357a9-e5ec-4c91-a037-9a426fa2cdff
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=pluto+tv+romance",pluto tv romance
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec799-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91cee60e-49f2-4985-953a-f2cde441fe54
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=pluto+tv+romance+(720p)",pluto tv romance (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=puro+romance",puro romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=qatar+television+2+(1080p)",qatar television 2 (1080p)
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=qatar+television+(1080p)",qatar television (1080p)
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=quran",quran
+https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=quran+radio+(1080p)",quran radio (1080p)
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rakuten+tv+films+romance+(720p)",rakuten tv films romance (720p)
+https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rakuten+tv+romance+movies+(1080p)",rakuten tv romance movies (1080p)
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rakuten+tv+romance+movies+finland+(1080p)",rakuten tv romance movies finland (1080p)
+https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rakuten+tv+romance+movies+germany+(1080p)",rakuten tv romance movies germany (1080p)
+https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rakuten+tv+romance+movies+italy+(1080p)",rakuten tv romance movies italy (1080p)
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rakuten+tv+romance+movies+spain+(1080p)",rakuten tv romance movies spain (1080p)
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=romana+tv+canal+42+(480p)",romana tv canal 42 (480p)
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=romance+365",romance 365
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6cd97b90e60007bc318a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb48-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dc1c4c08-8f65-4478-b529-e20763cbfc28
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Romania+TV+(576p)",Romania TV (576p)
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=romanza++africa+(720p)",romanza+ africa (720p)
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rotana+aflam++(1080p)",rotana aflam+ (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Rotana+Cinema+Egypt+(1080p)",Rotana Cinema Egypt (1080p)
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rotana+cinema+egypt+(1080p)",rotana cinema egypt (1080p)
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rotana+classic+(1080p)",rotana classic (1080p)
+https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Rotana+Clip+(1080p)",Rotana Clip (1080p)
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Rotana+Comedy+(1080p)",Rotana Comedy (1080p)
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Rotana+Drama+(1080p)",Rotana Drama (1080p)
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Rotana+Khalijia+(1080p)",Rotana Khalijia (1080p)
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rotana+khalijia+(1080p)",rotana khalijia (1080p)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c926b44e3f020008e19112/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072632-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=480862f0-a3b1-4a41-ace7-43c6c645f118
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rotana+radio+jordan+studio+(1080p)+[not+24/7]",rotana radio jordan studio (1080p) [not 24/7]
+http://45.63.116.205/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rotana+tarab+jordan+city+view+(720p)+[not+24/7]",rotana tarab jordan city view (720p) [not 24/7]
+http://45.63.116.205/hls3/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rt+arabic+(1080p)+[geo-blocked]",rt arabic (1080p) [geo-blocked]
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rtv+noord+(720p)+[not+24/7]",rtv noord (720p) [not 24/7]
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rtv+noord+extra+(1080p)+[not+24/7]",rtv noord extra (1080p) [not 24/7]
+https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=rtv+noordoost+friesland+(720p)+[not+24/7]",rtv noordoost friesland (720p) [not 24/7]
+https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Russkiy+roman",Russkiy roman
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=sama+dubai+(1080p)",sama dubai (1080p)
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=sat+7+arabic+(240p)",sat 7 arabic (240p)
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=saudi+thaqafiya+tv+(1080p)",saudi thaqafiya tv (1080p)
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=saudia+radio+(1080p)",saudia radio (1080p)
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=sbc+(1080p)",sbc (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=sbc+tv+(720p)+[not+24/7]",sbc tv (720p) [not 24/7]
+http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=sharjah+radio+quran+(1080p)",sharjah radio quran (1080p)
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=spacetoon+arabic+(1080p)",spacetoon arabic (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=stingray+romance+latino+(1080p)",stingray romance latino (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=telemundo+romance",telemundo romance
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=turksat+saat",turksat saat
+http://185.234.111.229:8000/play/a01f
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=turksat+tanitim",turksat tanitim
+http://185.234.111.229:8000/play/a01d
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=tv+romana+(720p)",tv romana (720p)
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=tvr+sport+romania+(vpn)",tvr sport romania (vpn)
+https://tvr-tvrsport.cdn.zitec.com/live/tvrsport/main.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+1",alkass 1
+http://154.58.202.185:8000/play/a02y
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+2",alkass 2
+http://154.58.202.185:8000/play/a02z
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+3",alkass 3
+http://154.58.202.185:8000/play/a02x
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+4",alkass 4
+http://154.58.202.185:8000/play/a030
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+5",alkass 5
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+6",alkass 6
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=alkass+shoof",alkass shoof
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=bahrain+tv+(720p)+[not+24/7]",bahrain tv (720p) [not 24/7]
+http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/11222
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+sports+2+(720p)",dubai sports 2 (720p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+sports+3+(various+sports)",dubai sports 3 (various sports)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=ksa+sports+2",ksa sports 2
+http://154.58.202.185:8000/play/a09x
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=ksa+sports+3",ksa sports 3
+http://154.58.202.185:8000/play/a09y
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=oman+tv+(1080p)",oman tv (1080p)
+http://ott.udptv.net/stream/iptv/onesports-1/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+racing+(irish+and+uk+racing)",dubai racing (irish and uk racing)
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b2500000.m3u
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+racing+2+(horse+racing)",dubai racing 2 (horse racing)
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=dubai+racing+3+(horse+racing)",dubai racing 3 (horse racing)
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=woman+tv+(1080p)",woman tv (1080p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/667c0111fc3a4600087283c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+3+usa+(1080p)",mbc 3 usa (1080p)
+https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=mbc+masr+usa+(1080p)",mbc masr usa (1080p)
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=russkiy+roman",russkiy roman
+https://s7.merlive.am/ruskiroman/index.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Bein+Sports+1",beIN Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Bein+Sports+2",beIN Sports 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Bein-Movies1",Bein-Movies1
+http://iptv.am000.tv:8000/live/add17/add17/387.ts
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Bein-Movies2",Bein-Movies2
+http://iptv.am000.tv:8000/live/add17/add17/343.ts
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Bein-Movies3",Bein-Movies3
+http://iptv.am000.tv:8000/live/add17/add17/534.ts
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+1+HD",BeIN 1 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/748.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+2+HD",BeIN 2 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/749.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+3+HD",BeIN 3 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/750.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+4+HD",BeIN 4 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/751.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+5+HD",BeIN 5 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/752.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+6+HD",BeIN 6 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/753.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+7+HD",BeIN 7 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/754.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+8+HD",BeIN 8 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/755.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+9+HD",BeIN 9 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/756.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+10+HD",BeIN 10 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/757.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+11+HD",BeIN 11 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/758.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+12+HD",BeIN 12 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/759.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+14+HD",BeIN 14 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/260.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+15+HD",BeIN 15 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/261.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+16+HD",BeIN 16 HD
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/262.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+HD+USA",BeIN HD USA
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/195.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+Asia",BeIN Asia
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/146.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=BeIN+FR+2",BeIN FR 2
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/774.m3u8
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Sky+Sports+Main+Event",Sky Sports Main Event
+http://yourserver.example.com:8080/live/AF3MK/12131415/4011.ts
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Canal+Foot%2B",Canal+Foot+
+http://yourserver.example.com:8080/live/AF3MK/12131415/4012.ts
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Eleven+Sports+1",Eleven Sports 1
+http://yourserver.example.com:8080/live/AF3MK/12131415/4013.ts
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Polsat+Sport+HD",Polsat Sport HD
+http://yourserver.example.com:8080/live/AF3MK/12131415/4014.ts
+#EXTINF:-1 tvg-logo="https://dummyimage.com/200x100/000/fff.png&text=Nova+Sports+1",Nova Sports 1
+http://yourserver.example.com:8080/live/AF3MK/12131415/4015.ts
+#EXTINF:-1,TR:BEINSPORTS 4K
+http://portal.germanyservers.de:8000/live/1234/1234/15531.m3u8
+
+#EXTINF:-1,beIN SPORTS 1 FHD
+http://vip-max.com:5555/user/pass/170417
+#EXTINF:-1,beIN SPORTS 2 FHD
+http://vip-max.com:5555/user/pass/170418
+#EXTINF:-1,beIN SPORTS 3 FHD
+http://vip-max.com:5555/user/pass/170419
+#EXTINF:-1,beIN SPORTS 4 FHD
+http://vip-max.com:5555/user/pass/170420
+#EXTINF:-1,beIN SPORTS 5 FHD
+http://vip-max.com:5555/user/pass/170421
+#EXTINF:-1,beIN SPORTS 6 FHD
+http://vip-max.com:5555/user/pass/170422
+#EXTINF:-1,beIN SPORTS 7 FHD
+http://vip-max.com:5555/user/pass/170423
+#EXTINF:-1,beIN SPORTS 4K
+http://portal.germanyservers.de:8000/live/1234/1234/15531.m3u8
