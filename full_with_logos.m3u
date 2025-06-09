@@ -1,0 +1,41 @@
+#EXTM3U
+
+# beIN Sports FHD
+#EXTINF:-1,tvg-name="beIN SPORTS FR1 FHD",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bein_sport_logo.png/300px-Bein_sport_logo.png",group-title="beIN FHD"
+http://iptv.am000.tv:8000/live/add17/add17/16.ts
+#EXTINF:-1,tvg-name="beIN SPORTS FR2 FHD",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bein_sport_logo.png/300px-Bein_sport_logo.png",group-title="beIN FHD"
+http://iptv.am000.tv:8000/live/add17/add17/17.ts
+#EXTINF:-1,tvg-name="beIN SPORTS FR3 FHD",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bein_sport_logo.png/300px-Bein_sport_logo.png",group-title="beIN FHD"
+http://iptv.am000.tv:8000/live/add17/add17/566.ts
+
+# Saudi Channels
+#EXTINF:-1,tvg-name="Al Ekhbariya",tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/b/b9/Al_Ekhbariya_logo.svg/512px-Al_Ekhbariya_logo.svg.png",group-title="Saudi"
+http://62.210.141.179:8000/ibrahim/123456/37
+#EXTINF:-1,tvg-name="Saudi TV 1",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Saudi_TV1_Logo.svg/512px-Saudi_TV1_Logo.svg.png",group-title="Saudi"
+http://62.210.141.179:8000/ibrahim/123456/38
+
+# MBC Group
+#EXTINF:-1,tvg-name="MBC 1",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/MBC_1_Logo.svg/512px-MBC_1_Logo.svg.png",group-title="MBC"
+http://62.210.141.179:8000/ibrahim/123456/101
+#EXTINF:-1,tvg-name="MBC 2",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/MBC_2_Logo.svg/512px-MBC_2_Logo.svg.png",group-title="MBC"
+http://62.210.141.179:8000/ibrahim/123456/102
+#EXTINF:-1,tvg-name="MBC 3",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/MBC_3_Logo.svg/512px-MBC_3_Logo.svg.png",group-title="MBC"
+http://62.210.141.179:8000/ibrahim/123456/103
+#EXTINF:-1,tvg-name="MBC 4",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/MBC_4_Logo.svg/512px-MBC_4_Logo.svg.png",group-title="MBC"
+http://62.210.141.179:8000/ibrahim/123456/104
+
+# TOD – beIN OTT
+#EXTINF:-1,tvg-name="TOD – beIN OTT",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TOD_TV_logo.svg/512px-TOD_TV_logo.svg.png",group-title="beIN OTT"
+http://iptv.am000.tv:8000/live/add17/add17/700.ts
+
+# Abu Dhabi Sports
+#EXTINF:-1,tvg-name="Abu Dhabi Sports 1 HD",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Abu_Dhabi_Sports_logo_2023.svg/512px-Abu_Dhabi_Sports_logo_2023.svg.png",group-title="Abu Dhabi Sports"
+http://iptv.am000.tv:8000/live/add17/add17/807.ts
+#EXTINF:-1,tvg-name="Abu Dhabi Sports 2 HD",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Abu_Dhabi_Sports_logo_2023.svg/512px-Abu_Dhabi_Sports_logo_2023.svg.png",group-title="Abu Dhabi Sports"
+http://iptv.am000.tv:8000/live/add17/add17/808.ts
+
+# AlKass Sports
+#EXTINF:-1,tvg-name="AlKass Sports 1 HD",tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/9/94/Alkass_Sports_Channel_logo.svg/512px-Alkass_Sports_Channel_logo.svg.png",group-title="AlKass Sports"
+http://iptv.am000.tv:8000/live/add17/add17/809.ts
+#EXTINF:-1,tvg-name="AlKass Sports 2 HD",tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/9/94/Alkass_Sports_Channel_logo.svg/512px-Alkass_Sports_Channel_logo.svg.png",group-title="AlKass Sports"
+http://iptv.am000.tv:8000/live/add17/add17/810.ts
