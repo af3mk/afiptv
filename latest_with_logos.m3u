@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1,tvg-name="beIN SPORTS FR1 FHD",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bein_sport_logo.png/300px-Bein_sport_logo.png",group-title="beIN FHD"
+http://iptv.am000.tv:8000/live/add17/add17/16.ts
+#EXTINF:-1,tvg-name="beIN SPORTS FR2 FHD",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bein_sport_logo.png/300px-Bein_sport_logo.png",group-title="beIN FHD"
+http://iptv.am000.tv:8000/live/add17/add17/17.ts
+#EXTINF:-1,tvg-name="beIN SPORTS FR3 FHD",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bein_sport_logo.png/300px-Bein_sport_logo.png",group-title="beIN FHD"
+http://iptv.am000.tv:8000/live/add17/add17/566.ts
+
+#EXTINF:-1,tvg-name="AlKass Sports 1 HD",tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/082011/alkass_sport_channel.png",group-title="AlKass Sports"
+http://iptv.am000.tv:8000/live/add17/add17/809.ts
+#EXTINF:-1,tvg-name="AlKass Sports 2 HD",tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/082011/alkass_sport_channel.png",group-title="AlKass Sports"
+http://iptv.am000.tv:8000/live/add17/add17/810.ts
+
+#EXTINF:-1,tvg-name="Abu Dhabi Sports 1 HD",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Abu_Dhabi_Sports_logo_2023.svg/512px-Abu_Dhabi_Sports_logo_2023.svg.png",group-title="Abu Dhabi Sports"
+http://iptv.am000.tv:8000/live/add17/add17/807.ts
+#EXTINF:-1,tvg-name="Abu Dhabi Sports 2 HD",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Abu_Dhabi_Sports_logo_2023.svg/512px-Abu_Dhabi_Sports_logo_2023.svg.png",group-title="Abu Dhabi Sports"
+http://iptv.am000.tv:8000/live/add17/add17/808.ts
+
+#EXTINF:-1,tvg-name="TOD – beIN OTT",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TOD_TV_logo.svg/512px-TOD_TV_logo.svg.png",group-title="beIN OTT"
+http://iptv.am000.tv:8000/live/add17/add17/700.ts
